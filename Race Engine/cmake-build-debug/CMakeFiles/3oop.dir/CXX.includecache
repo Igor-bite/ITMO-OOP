@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/igorklyuzev/CLionProjects/3oop/Engine.cpp
+vector
+-
+Race.cpp
+/Users/igorklyuzev/CLionProjects/3oop/Race.cpp
+
+/Users/igorklyuzev/CLionProjects/3oop/Race.cpp
+iostream
+-
+vector
+-
+Transport.cpp
+/Users/igorklyuzev/CLionProjects/3oop/Transport.cpp
+utility
+-
+
+/Users/igorklyuzev/CLionProjects/3oop/Transport.cpp
+cmath
+-
+
+/Users/igorklyuzev/CLionProjects/3oop/main.cpp
+Engine.cpp
+/Users/igorklyuzev/CLionProjects/3oop/Engine.cpp
+

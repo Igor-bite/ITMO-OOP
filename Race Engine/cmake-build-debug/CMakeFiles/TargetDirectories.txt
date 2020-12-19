@@ -1,0 +1,3 @@
+/Users/igorklyuzev/CLionProjects/3oop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/igorklyuzev/CLionProjects/3oop/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/igorklyuzev/CLionProjects/3oop/cmake-build-debug/CMakeFiles/3oop.dir

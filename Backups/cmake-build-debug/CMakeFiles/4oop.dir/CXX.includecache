@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/igorklyuzev/CLionProjects/4oop/Nodes.cpp
+string
+-
+vector
+-
+iostream
+-
+
+/Users/igorklyuzev/CLionProjects/4oop/Restore.cpp
+vector
+-
+string
+-
+ctime
+-
+algorithm
+-
+Nodes.cpp
+/Users/igorklyuzev/CLionProjects/4oop/Nodes.cpp
+
+/Users/igorklyuzev/CLionProjects/4oop/main.cpp
+iostream
+-
+unistd.h
+-
+Restore.cpp
+/Users/igorklyuzev/CLionProjects/4oop/Restore.cpp
+
